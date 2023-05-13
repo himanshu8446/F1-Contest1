@@ -1,0 +1,17 @@
+.container{
+    width: 1728px;
+    height: 2358px;
+    font-family: 'Inter', sans-serif;;
+}
+
+.top{
+    border: 1px solid black;
+}
+
+img{
+    
+    width: 400px;
+    height: 300px;
+    
+    
+}
